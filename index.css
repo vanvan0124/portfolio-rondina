@@ -1,0 +1,20 @@
+* {
+
+	font-family: 'Karla', sans-serif;
+
+}
+
+
+.navbar{
+	background: #0F0A09;
+	color: white;
+}
+#landing  {
+	background: #0F0A09;
+}
+.fake-book {
+
+	height: 10vh;
+	width: 100%;
+}
+
