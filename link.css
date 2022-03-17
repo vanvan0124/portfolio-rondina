@@ -10,13 +10,18 @@
 
 	background-color: #6A6CD8;
 }
+
 footer {
 	background-color: #6A6CD8;
 }
 
-.card {
-	margin: 20px 10px;
-		
-		
+
+#gmap_canvas  {
+height: 60vh;
+width: 100%;
 }
+
+.fa-icons {
+	font-size: 2rem;
+}	
 
