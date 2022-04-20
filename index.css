@@ -17,3 +17,7 @@ body  {
 .fa-icons {
 	font-size: 2rem;
 }	
+
+.project-link{
+	 text-decoration: none;
+}
